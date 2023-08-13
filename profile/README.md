@@ -28,7 +28,7 @@ different service components that each have a different part of
 
 ## System architecture
 
-![system_design_overview](../images/system_design_overview.png)
+![system_design_overview](https://raw.githubusercontent.com/all-news-project/.github/main/images/system_design_overview.png)
 
 ## Client-Server sequence overview
 
