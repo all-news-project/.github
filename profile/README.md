@@ -26,7 +26,7 @@ The main core of the All News project is the server which is
 based on Linux & Docker that manages and runs a couple of
 different service components that each have a different part of the main goal.
 
-## System architecture
+## System architecture (MVC)
 
 ![system_design_overview](https://raw.githubusercontent.com/all-news-project/.github/main/images/system_design_overview.png)
 
