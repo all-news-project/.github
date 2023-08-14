@@ -24,7 +24,7 @@ of all the news articles that have the same article in a
 different agenda.
 The main core of the All News project is the server which is
 based on Linux & Docker that manages and runs a couple of
-different service components that each have a different part of
+different service components that each have a different part of the main goal.
 
 ## System architecture
 
