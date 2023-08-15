@@ -50,3 +50,12 @@ sequenceDiagram
 - [Installation](https://github.com/all-news-project/extension/wiki/Installation)
 - [How to use the extension](https://github.com/all-news-project/extension/wiki/How-to-use-the-extension)
 - [User interface overview](https://all-news-project.github.io/ui/)
+
+## Be part of the open source system
+- [How to add new website web scraper](https://github.com/all-news-project/server/wiki/How-to-add-Scraper)
+- [How to add new nlp model](https://github.com/all-news-project/server/wiki/How-to-add-NLP-model)
+- [How create new database](https://github.com/all-news-project/server_utils/wiki/How-to-add-a-new-Database)
+- [How to  configure MongoDB to the system](https://github.com/all-news-project/server_utils/wiki/How-to-configure-MongoDB-to-the-system)
+
+## Extra
+- [How the scraping tasks work?](https://github.com/all-news-project/server/blob/main/scrapers/web_scraper/README.md)
